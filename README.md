@@ -83,7 +83,7 @@ My name is Ludmyla Muniz Cordeiro, I am 20 years old, and I am originally from C
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ludmuniz&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
   />
