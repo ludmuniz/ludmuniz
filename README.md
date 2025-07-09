@@ -1,87 +1,70 @@
-<p align="center"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e,3f0099,004c99&height=170&section=header&text=Ludmyla%20Muniz%20Cordeiro&fontColor=ffffff&fontSize=30&fontAlignY=30&animation=fadeIn" alt="header" /> 
+### Hello! I'm Ludmyla Cordeiro 👋
+
+I’m a developer focused on digital solutions, data science, and applied AI. Currently, I work on the AI team at Bosch Integrated Solutions Brazil (BISB), where I contribute to real industrial challenges by integrating intelligent systems into operations.
+
+My experience spans the full data science pipeline, from data preprocessing and exploratory analysis to model training, evaluation, and deployment. I also build AI agents and chatbot solutions using tools like LangChain and LangGraph, integrating LLMs into industrial environments.
+
+---
+
+#### 💼 A bit about my journey:
+- Started in Informatics at CEMEP, followed by Systems Development at SENAI/Bosch.
+
+- Now pursuing a BSc in Computer Science at UNIP (Campinas), with interests in generative AI, data engineering, and intelligent automation.
+
+#### ⚙️ Interests:
+- ML & Data Science: Scikit-learn, pandas, Flask, deployment pipelines
+
+- Generative AI: LLMs, context-aware agents, prompt engineering
+
+- Always exploring new ways to apply AI with real-world impact
+
+- Let’s connect and collaborate on smart, scalable solutions. 🚀
+
+---
+
+### Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-2b5b84?&logo=Python&logoColor=fff)
+![Flask](https://img.shields.io/badge/-Flask-2a80b9?&logo=flask&logoColor=fff)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-f99f44?&logo=scikit-learn&logoColor=fff)
+![Pandas](https://img.shields.io/badge/-Pandas-d63384?&logo=pandas&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-276be9?logo=numpy&logoColor=fff)
+![LangChain](https://img.shields.io/badge/-LangChain-1d3d3c?&logo=langchain&logoColor=fff)
+![LangGraph](https://img.shields.io/badge/LangGraph-076597?logo=graph&logoColor=fff)
+![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?logo=streamlit&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-e76f00?&logo=Java&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=MySQL&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=React&logoColor=000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=000)
+
+---
+
+### IDE's/Editors
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-00bcf2.svg?style=Plastic&logo=visual-studio&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-orange?style=Plastic&logo=jupyter&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Google_Colab-%23575757.svg?style=Plastic&logo=Google-Colab&logoColor=#F9AB00)
+
+---
+
+### Stats
+
+<a href="https://github.com/ludmuniz">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ludmuniz&hide_title=true&show_icons=true&hide_border=true&line_height=21&theme=github_dark" />
+</a>
+
+---
+
+## Contact me
+
+<p>
+  <a href="mailto:ludmylacmc@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23BB001B.svg?&logo=Gmail&logoColor=fff" />
+  </a>
+  <a href="https://github.com/ludmuniz">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&logo=github&logoColor=fff" />
+  </a>
+  <a href="https://www.linkedin.com/in/ludmyla-muniz/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&logo=linkedin&logoColor=fff" />
+  </a>
 </p>
-
-<p align="center"> 
-    <a href="https://github.com/ludmuniz?tab=repositories&sort=stargazers"> 
-        <img alt="Total stars" 
-            title="Total GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ludmuniz?color=20cfe3&style=for-the-badge&labelColor=161b22&logo=star&label=stars" /> 
-        </a> 
-    <a href="https://github.com/ludmuniz?tab=followers"> 
-    <img alt="Followers" 
-        title="Follow me on Github" 
-        src="https://custom-icon-badges.demolab.com/github/followers/ludmuniz?color=236ad3&labelColor=161b22&style=for-the-badge&logo=github&label=followers&logoColor=white" /> 
-    </a> 
-</p>
-
-<div style="margin: 40px 0px"></div>
-
-<h2 align="center">👋 About me</h2> 
-
-<p align="justify"> <strong>Fullstack Developer</strong><br> My name is <strong>Ludmyla Muniz Cordeiro</strong>, I am 20 years old, and I am originally from Campinas, Brazil. I completed my secondary education with a technical course in Information Technology at CEMEP in Paulínia, Brazil. Additionally, I pursued a qualification in Systems Development at SENAI, a prestigious Brazilian institution known for its industry-focused vocational and technical education. I am currently studying Computer Science at UNIP Campinas. 
-</p> 
-<p align="justify"> I have a strong passion for technology and am committed to continuously expanding my knowledge while contributing to the tech community through collaborative learning and development initiatives. </p>
-
-<div style="margin: 60px 0px"></div>
-
-<h2 align="center">👾 Languages and technologies</h2> 
-
-<p align="center">
-    <img alt="Python" 
-        title="Python" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin: 0 10px;" />
-    <img alt="Java" 
-        title="Java" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin: 0 10px;" />
-    <img alt="JavaScript" 
-        title="JavaScript" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-        style="margin: 0 10px;" />
-    <img alt="TypeScript" 
-        title="TypeScript" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-        style="margin: 0 10px;" />
-    <img alt="React" 
-        title="React" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="margin: 0 10px;" />
-    <img alt="Git" 
-        title="Git" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="margin: 0 10px;" /> 
-</p>
-
-<div style="margin: 60px 0px"></div>
-
-<h2 align="center">📊 Stats</h2> 
-
-<div align="center"> 
-    <img alt="GitHub Stats" 
-        height="150" 
-        src="https://github-readme-stats.vercel.app/api?username=ludmuniz&show_icons=true&theme=nord&include_all_commits=true&locale=en" 
-        style="margin: 5px;" /> 
-    <img alt="Most used languages" 
-        height="150" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ludmuniz&theme=nord&layout=compact&custom_title=Technology&langs_count=9&locale=en" 
-        style="margin: 5px;" /> 
-</div>
-
-<div style="margin: 60px 0px"></div>
-
-<h2 align="center">🌐 Where to find me</h2> 
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/ludmyla-muniz" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
-    </a> 
-    <a href="mailto:ludmylacmuniz@gmail.com" target="_blank" style="text-decoration: none;"> 
-        <img src="https://img.shields.io/badge/Email-20cfe3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> 
-    </a> 
-</p> 
-
-<p align="center"> Made with ❤️ and a lot of <strong>curiosity</strong>. <br> thank you for visiting! </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e1e,3f0099,004c99&height=120&section=footer" alt="footer" /> </p>
