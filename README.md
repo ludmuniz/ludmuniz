@@ -12,11 +12,11 @@ My experience spans the full data science pipeline, from data preprocessing and 
 - Now pursuing a BSc in Computer Science at UNIP (Campinas), with interests in generative AI, data engineering, and intelligent automation.
 
 #### ⚙️ Interests:
-- ML & Data Science: Scikit-learn, pandas, Flask, deployment pipelines;
+- ML & Data Science: Scikit-learn, pandas, Flask, deployment pipelines.
 
-- Generative AI: LLMs, context-aware agents, prompt engineering;
+- Generative AI: LLMs, context-aware agents, prompt engineering.
 
-- Always exploring new ways to apply AI with real-world impact;
+- Always exploring new ways to apply AI with real-world impact.
 
 - Let’s connect and collaborate on smart, scalable solutions. 🚀
 
